@@ -1,10 +1,10 @@
 {
-"Title": "☆  بروزرسانی جدید  ☆",
-"Description": "سلام دوست عزیزم 🌺\n\n- این نسخه از کار افتاده ، نسخه جدید پرسرعت ، مود و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍",
-"Link": "tg://resolve?domain=Farsroid_Club",
-"ColorWave": "#FFFF00",
+"Title": "سلام عشقم 😍",
+"Description": "برای استفاده از برنامه و دسترسی به فیلترشکن‌های متصل بیشتر حتما عضو کانال تلگرامی ما شوید ❤️👇🏻",
+"Link": "tg://join?invite=uypllBUGgZljNGE0",
+"ColorWave": "#673AB7",
 "Color": "#FFFF00",
-"ColorWaveTwo": "#FFD600",
+"ColorWaveTwo": "#7E57C2",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -14,10 +14,10 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "true",
-"MessageID": "1",
-"ShowTime": "999",
-"Button": "  دریافت نسخه جدید  ",
+"Cancellable": "false",
+"MessageID": "9392929155115",
+"ShowTime": "3",
+"Button": "  عضویت فوری  ",
 "ButtonCancell": " بعدا ",
 "Closure": "true",
 "Show": "on"
